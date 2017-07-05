@@ -16,7 +16,7 @@ OS/Python system requirements:
 Server start:
 
 	- open graphical terminal , then start whs.py and follow instructions.
-	  This process starts using 5000 as default listening port. 
+	  This process starts using port 5000 as default listening port. 
 
 Client use (to send message):
 
