@@ -6,7 +6,16 @@ It consists of a socket server process (whs.py) and a command line client (whc.p
 OS/Python system requirements:
 
 - CPython 2.7 (not tested with > 2.7)
-- selenium >= 3.4.3
+- Any graphical environment that supports graphical internet browsing 
+- selenium module >= 3.4.3
 - chrome webdriver >= 2.30.477691 for chrome browser
 - tested with chrome browser version >= 59
 - copy chrome webdriver under folder named 'driver' where whs.py and whc.py files reside
+
+Server start:
+	open graphical terminal and start whs.py and follow instructions.This process starts using 5000 as default listening port. 
+
+Client start (to send message):
+	start whc.py with arguments: ip_server port_server whatsapp_contact_name whatspp_message
+
+
