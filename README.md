@@ -15,8 +15,8 @@ OS/Python system requirements:
 
 Server start:
 
-	- open graphical terminal , then start whs.py and follow instructions.
-	  This process starts using port 5000 as default listening port. 
+	- open graphical terminal , then start whs.py and follow instructions to authenticate via QR code using phone.
+	  This process starts using port 5000 as default listening port; press CTRL+C to stop process. 
 
 Client use (to send message):
 
