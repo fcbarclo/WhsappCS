@@ -13,9 +13,7 @@ OS/Python system requirements:
 - copy chrome webdriver under folder named 'driver' where whs.py and whc.py files reside
 
 Server start:
-	open graphical terminal and start whs.py and follow instructions.This process starts using 5000 as default listening port. 
+	- open graphical terminal and start whs.py and follow instructions.This process starts using 5000 as default listening port. 
 
-Client start (to send message):
-	start whc.py with arguments: ip_server port_server whatsapp_contact_name whatspp_message
-
-
+Client use (to send message):
+	- start whc.py with arguments: ip_server port_server whatsapp_contact_name whatspp_message
