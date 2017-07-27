@@ -10,7 +10,7 @@ OS/Python system requirements:
 - selenium module >= 3.4.3
 - chrome webdriver >= 2.30.477691 for chrome browser
 - tested with chrome browser version >= 59
-- copy chrome webdriver under folder named 'driver' where whs.py and whc.py files reside
+- copy chrome webdriver under folder named 'driver' where whg.py and whc.py files reside
 
 
 Gateway start:
