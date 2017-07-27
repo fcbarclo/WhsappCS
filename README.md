@@ -20,4 +20,4 @@ Gateway start:
 
 Client use (to send message):
 
-	- start whc.py with arguments: ip_server port_server whatsapp_contact_name whatspp_message
+	- start whc.py with arguments: <ip_gateway> <port_gateway> <whatsapp contact/group name> <message>
